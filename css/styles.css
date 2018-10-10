@@ -7,6 +7,7 @@
 .instruments {
   float: left;
   width: 300px;
+  max-height: 200px;
   /* border: 10px solid black; */
 
 }
@@ -16,9 +17,9 @@
   clear: both;
   border: 10px solid black;
   margin: 10px;
-
 }
 
 .clear {
   clear: both;
+  column-span:
 }
