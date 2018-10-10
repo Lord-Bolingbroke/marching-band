@@ -1,13 +1,16 @@
 .shows {
   float: right;
   background-color: pink;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
-
 
 .instruments {
   float: left;
   width: 300px;
   max-height: 200px;
+  padding: 5px;
   /* border: 10px solid black; */
 
 }
