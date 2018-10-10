@@ -1,0 +1,24 @@
+.shows {
+  float: right;
+  background-color: pink;
+}
+
+
+.instruments {
+  float: left;
+  width: 300px;
+  /* border: 10px solid black; */
+
+}
+
+.member_box {
+  padding: 10px;
+  clear: both;
+  border: 10px solid black;
+  margin: 10px;
+
+}
+
+.clear {
+  clear: both;
+}
